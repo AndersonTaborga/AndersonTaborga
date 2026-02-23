@@ -5,11 +5,6 @@
   <a href="mailto:anderson.taborga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AndersonTaborga" target="_blank"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-andersontaborga-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <a href="https://www.youtube.com/channel/UCKmzRsGQ8UvR0PJahYUXR1Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://instagram.com/anderson.s.taborga" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-<p align="center">
   <a href="https://pedidofacil-silk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Pedido%20F%C3%A1cil-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://compra-inversa-saas-git-develop-comprainversa-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Compra%20Inversa-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
@@ -56,20 +51,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndersonTaborga&bg_color=00000000&hide_border=true&area=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndersonTaborga/AndersonTaborga/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndersonTaborga/AndersonTaborga/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/AndersonTaborga/AndersonTaborga/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
