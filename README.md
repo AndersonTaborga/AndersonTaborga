@@ -3,13 +3,19 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/andersontaborga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:anderson.taborga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://pedidofacil-silk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Pedido%20F%C3%A1cil-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://compra-inversa-saas-git-develop-comprainversa-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Compra%20Inversa-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/AndersonTaborga" target="_blank"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-andersontaborga-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://www.youtube.com/channel/UCKmzRsGQ8UvR0PJahYUXR1Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://instagram.com/anderson.s.taborga" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1000&lines=.NET+%2B+Dynamics+365+%2F+Dataverse;PCF+Components+%2B+Power+Platform;SaaS+Builder+(Pedido+F%C3%A1cil+%26+Compra+Inversa);Agentic+AI+(tool-use%2C+RAG%2C+workflows)" />
+  <a href="https://pedidofacil-silk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Pedido%20F%C3%A1cil-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://compra-inversa-saas-git-develop-comprainversa-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Compra%20Inversa-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1100&lines=.NET+%2B+Dynamics+365+%2F+Dataverse;PCF+Components+%2B+Power+Platform;SaaS+Builder+(Pedido+F%C3%A1cil+%26+Compra+Inversa);Agentic+AI+(tool-use%2C+RAG%2C+workflows)" />
 </p>
 
 <p align="center">
@@ -24,34 +30,28 @@
   <img src="https://img.shields.io/badge/Power%20Platform-111111?style=for-the-badge&logo=powerapps&logoColor=white"/>
   <img src="https://img.shields.io/badge/PCF-111111?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,nodejs,react,nextjs,azure,docker,githubactions,postgres&perline=10" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,nodejs,python,react,nextjs,azure,docker,githubactions,postgres&perline=11" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://pedidofacil-silk.vercel.app/" target="_blank">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndersonTaborga&repo=pedidofacil&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://compra-inversa-saas-git-develop-comprainversa-projects.vercel.app/" target="_blank">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndersonTaborga&repo=compra-inversa&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndersonTaborga&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTaborga&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndersonTaborga&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTaborga&layout=compact&langs_count=10&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AndersonTaborga&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndersonTaborga&theme=flat&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
