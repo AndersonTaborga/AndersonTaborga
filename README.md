@@ -105,11 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AndersonTaborga&theme=flat&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndersonTaborga&bg_color=00000000&hide_border=true&area=true&theme=github-compact" />
+  <img src="https://raw.githubusercontent.com/AndersonTaborga/AndersonTaborga/main/github-metrics.svg" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
