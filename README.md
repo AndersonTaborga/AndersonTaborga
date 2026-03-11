@@ -96,8 +96,8 @@
 <hr/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndersonTaborga&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTaborga&layout=compact&langs_count=10&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-tan-pi-55.vercel.app/api?username=AndersonTaborga&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-tan-pi-55.vercel.app/api/top-langs/?username=AndersonTaborga&layout=compact&langs_count=10&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
