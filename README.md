@@ -19,13 +19,16 @@
 
 <hr/>
 
-## 🚀 Featured Projects
+## 🚀 Building / Construindo
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://compra-inversa-saas-git-develop-comprainversa-projects.vercel.app/">Compra Inversa</a></h3>
-      <p>Marketplace reverso onde compradores postam intenções de compra e vendedores respondem com ofertas. B2B SaaS em Next.js + Postgres.</p>
+      <p>
+        Reverse marketplace where buyers post purchase intentions and sellers compete with offers — built for the Brazilian B2B market.<br/>
+        <em>Marketplace reverso onde compradores postam o que precisam e vendedores respondem com propostas.</em>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -34,7 +37,10 @@
     </td>
     <td width="50%" valign="top">
       <h3>🍽️ <a href="https://pedidofacil-silk.vercel.app/">Pedido Fácil</a></h3>
-      <p>SaaS de gestão para restaurantes com plano freemium. Controle de pedidos, cardápio digital e integrações com iFood, 99Food e Keeta.</p>
+      <p>
+        Restaurant management SaaS with freemium model — orders, digital menu and delivery platform integrations.<br/>
+        <em>SaaS de gestão para restaurantes com plano gratuito, cardápio digital e integração com iFood, 99Food e Keeta.</em>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -45,7 +51,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/AndersonTaborga/mcp-docx">mcp-docx</a></h3>
-      <p>MCP Server para geração e manipulação de documentos .docx via ferramentas de AI (Claude, Cursor). Integração nativa com o ecossistema MCP/Agentic AI.</p>
+      <p>
+        MCP Server for generating and manipulating .docx files via AI agents (Claude, Cursor). Native integration with the MCP ecosystem.<br/>
+        <em>Servidor MCP para criar e editar documentos Word a partir de agentes de IA.</em>
+      </p>
       <p>
         <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=anthropic&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -53,10 +62,15 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Open to Collaborate</h3>
-      <p>Interesse em projetos envolvendo Agentic AI, PCF Components, integrações Dynamics 365 / Dataverse ou SaaS B2B no mercado brasileiro.</p>
+      <h3>🏢 Enterprise · Dynamics 365 / Dataverse</h3>
       <p>
-        <a href="mailto:anderson.taborga@gmail.com"><img src="https://img.shields.io/badge/Entre%20em%20contato-111111?style=flat-square&logo=gmail&logoColor=white"/></a>
+        Senior .NET developer focused on Microsoft enterprise stack — custom PCF components, plugins, Power Platform integrations and Dataverse-backed solutions.<br/>
+        <em>Dev sênior especializado no ecossistema Microsoft: PCF, plugins .NET, Power Platform e Dataverse.</em>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dynamics%20365-111111?style=flat-square&logo=microsoft&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PCF-111111?style=flat-square&logo=powerapps&logoColor=white"/>
       </p>
     </td>
   </tr>
