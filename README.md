@@ -36,7 +36,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://pedidofacil-silk.vercel.app/">Pedido Fácil</a></h3>
+      <h3>🍽️ <a href="https://pedidofacil-silk.vercel.app/">Garfo</a></h3>
       <p>
         Restaurant management SaaS with freemium model — orders, digital menu and delivery platform integrations.<br/>
         <em>SaaS de gestão para restaurantes com plano gratuito, cardápio digital e integração com iFood, 99Food e Keeta.</em>
