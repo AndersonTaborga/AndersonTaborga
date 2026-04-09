@@ -5,12 +5,12 @@
   <a href="mailto:anderson.taborga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AndersonTaborga" target="_blank"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-andersontaborga-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <a href="https://pedidofacil-silk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Pedido%20F%C3%A1cil-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://garfoo.vercel.app/login" target="_blank"><img src="https://img.shields.io/badge/Garfoo-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://compra-inversa-saas-git-develop-comprainversa-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Compra%20Inversa-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1100&lines=.NET+%2B+Dynamics+365+%2F+Dataverse;PCF+Components+%2B+Power+Platform;SaaS+Builder+(Pedido+F%C3%A1cil+%26+Compra+Inversa);Agentic+AI+(tool-use%2C+RAG%2C+workflows)" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=1100&lines=.NET+%2B+Dynamics+365+%2F+Dataverse;PCF+Components+%2B+Power+Platform;SaaS+Builder+(Garfoo+%26+Compra+Inversa);Agentic+AI+(tool-use%2C+RAG%2C+workflows)" />
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@
 
 <hr/>
 
-## 🚀 Building / Construindo
+## Building / Construindo
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://compra-inversa-saas-git-develop-comprainversa-projects.vercel.app/">Compra Inversa</a></h3>
+      <h3><a href="https://compra-inversa-saas-git-develop-comprainversa-projects.vercel.app/">Compra Inversa</a></h3>
       <p>
         Reverse marketplace where buyers post purchase intentions and sellers compete with offers — built for the Brazilian B2B market.<br/>
         <em>Marketplace reverso onde compradores postam o que precisam e vendedores respondem com propostas.</em>
@@ -36,7 +36,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://pedidofacil-silk.vercel.app/">Garfoo</a></h3>
+      <h3><a href="https://garfoo.vercel.app/">Garfoo</a></h3>
       <p>
         Restaurant management SaaS with freemium model — orders, digital menu and delivery platform integrations.<br/>
         <em>SaaS de gestão para restaurantes com plano gratuito, cardápio digital e integração com iFood, 99Food e Keeta.</em>
@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/AndersonTaborga/mcp-docx">mcp-docx</a></h3>
+      <h3><a href="https://github.com/AndersonTaborga/mcp-docx">mcp-docx</a></h3>
       <p>
         MCP Server for generating and manipulating .docx files via AI agents (Claude, Cursor). Native integration with the MCP ecosystem.<br/>
         <em>Servidor MCP para criar e editar documentos Word a partir de agentes de IA.</em>
@@ -62,7 +62,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 Enterprise · Dynamics 365 / Dataverse</h3>
+      <h3>Enterprise · Dynamics 365 / Dataverse</h3>
       <p>
         Senior .NET developer focused on Microsoft enterprise stack — custom PCF components, plugins, Power Platform integrations and Dataverse-backed solutions.<br/>
         <em>Dev sênior especializado no ecossistema Microsoft: PCF, plugins .NET, Power Platform e Dataverse.</em>
@@ -102,6 +102,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AndersonTaborga&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AndersonTaborga&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 <p align="center">
