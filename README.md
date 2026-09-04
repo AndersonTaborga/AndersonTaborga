@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/andersontaborga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:anderson.taborga@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/AndersonTaborga"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://garfoo.vercel.app/"><img src="https://img.shields.io/badge/Garfoo-Live-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Garfoo" /></a>
+    <a href="https://ogarfoo.com.br/"><img src="https://img.shields.io/badge/Garfoo-Live-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Garfoo" /></a>
   </p>
 </div>
 
@@ -36,13 +36,15 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://garfoo.vercel.app/">Garfoo</a></h3>
+      <a href="https://ogarfoo.com.br/"><img src="https://ogarfoo.com.br/opengraph-image?v=20260828" alt="Prévia do Garfoo" width="100%" /></a>
+      <h3><a href="https://ogarfoo.com.br/">Garfoo</a></h3>
       <p>
         SaaS de gestão para restaurantes, com plano gratuito, cardápio digital, pedidos e integrações com plataformas de delivery.
       </p>
       <p><code>Next.js</code> <code>React</code> <code>shadcn/ui</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/AndersonTaborga/mcp-docx"><img src="https://opengraph.githubassets.com/1/AndersonTaborga/mcp-docx" alt="Prévia do mcp-docx" width="100%" /></a>
       <h3><a href="https://github.com/AndersonTaborga/mcp-docx">mcp-docx</a></h3>
       <p>
         Servidor MCP para criar e editar documentos <code>.docx</code> a partir de agentes de IA, com integração ao ecossistema MCP.
