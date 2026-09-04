@@ -65,8 +65,7 @@
 ## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-tan-pi-55.vercel.app/api?username=AndersonTaborga&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats-tan-pi-55.vercel.app/api/top-langs/?username=AndersonTaborga&amp;layout=compact&amp;langs_count=8&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/AndersonTaborga/AndersonTaborga/main/github-metrics.svg" alt="Métricas do GitHub" width="480" />
 </p>
 
 <div align="center">
